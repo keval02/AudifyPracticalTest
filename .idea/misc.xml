@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidProjects/AudifyPracticalTest/app/src/main/res/drawable/ic_baseline_favorite_24.xml" value="0.2703125" />
+        <entry key="..\:/AndroidProjects/AudifyPracticalTest/app/src/main/res/drawable/ic_baseline_favorite_border_24.xml" value="0.2703125" />
+        <entry key="..\:/AndroidProjects/AudifyPracticalTest/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2703125" />
+        <entry key="..\:/AndroidProjects/AudifyPracticalTest/app/src/main/res/layout/activity_main.xml" value="0.1793478260869565" />
+        <entry key="..\:/AndroidProjects/AudifyPracticalTest/app/src/main/res/layout/layout_empty.xml" value="0.1793478260869565" />
+        <entry key="..\:/AndroidProjects/AudifyPracticalTest/app/src/main/res/layout/layout_songs_list_items.xml" value="0.1598731884057971" />
+        <entry key="..\:/AndroidProjects/AudifyPracticalTest/app/src/main/res/layout/layout_version_list_items.xml" value="0.1793478260869565" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

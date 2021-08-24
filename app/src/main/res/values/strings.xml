@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AudifyPracticalTest</string>
+    <string name="empty_list">No songs found!</string>
+</resources>
